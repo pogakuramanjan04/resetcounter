@@ -1,2 +1,2 @@
-# resetcounter
+# LimitCounter
 Created with CodeSandbox
